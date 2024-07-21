@@ -18,8 +18,8 @@ This project is a starting point for a Flutter application designed to help user
 - Detailed exercise information including sets, reps, and variations
 - User-friendly interface for easy navigation and tracking
 
-## ScreenShot
-![1](https://github.com/user-attachments/assets/2e990a18-2e56-4dde-9b8c-94771b30b4d0)
+## Screenshot
+<img src="https://github.com/user-attachments/assets/2e990a18-2e56-4dde-9b8c-94771b30b4d0" alt="App Screenshot" width="300">
 
 ## Installation
 
